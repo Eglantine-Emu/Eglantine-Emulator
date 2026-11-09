@@ -1,0 +1,2 @@
+Open the Qt frontend. The nx2 branch is the experimental line; the handbook covers the rest.
+Keys and firmware stay yours.
